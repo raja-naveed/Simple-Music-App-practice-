@@ -9,6 +9,18 @@ function App() {
         <Layout>
           <Home />
         </Layout>} />
+        <Route path="/browser" element={
+        <Layout>
+          <Home />
+        </Layout>} />
+        <Route path="/charts" element={
+        <Layout>
+          <Home />
+        </Layout>} />
+        <Route path="/artists" element={
+        <Layout>
+          <Home />
+        </Layout>} />
       </Routes>
     </Router>
   );
