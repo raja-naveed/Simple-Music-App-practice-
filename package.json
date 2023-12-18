@@ -10,12 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-spring/web": "^9.7.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
     "react-router-dom": "^6.14.2",
     "react-scripts": "^5.0.1",
     "react-slick": "^0.29.0",
+    "react-tinder-card": "^1.6.4",
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
